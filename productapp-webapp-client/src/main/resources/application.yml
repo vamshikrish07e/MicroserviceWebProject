@@ -1,0 +1,7 @@
+#/WEB-INF/views/home.jsp
+
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
